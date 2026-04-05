@@ -1,120 +1,92 @@
 [
   {
-    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttps://www.bigbuckbunny.org",
+    "description": "On April 17, 2016, an active region on the sun's right side released a mid-level solar flare, captured here by NASA's Solar Dynamics Observatory in stunning 4K ultra high definition. Solar flares are powerful bursts of radiation that can disturb GPS and communications signals.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare_4K/GSFC_20160426_SDO_m12224_SolarFlare_4K~medium.mp4"
     ],
-    "subtitle": "By Blender Foundation",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-    "title": "Big Buck Bunny",
-    "poster": "https://peach.blender.org/wp-content/uploads/bbb-splash.png"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare_4K/GSFC_20160426_SDO_m12224_SolarFlare_4K~thumb.jpg",
+    "title": "NASA's SDO Captures Stunning 4K Solar Flare"
   },
   {
-    "description": "The first Blender Open Movie from 2006",
+    "description": "A new simulation brings scientists a step closer to understanding the kinds of light signals produced when two supermassive black holes, millions to billions of times the mass of the Sun, spiral toward a merger. This stunning visualization shows the dance of binary black holes and the warping of spacetime around them.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      "https://images-assets.nasa.gov/video/GSFC_20181002_SMBH_m13043_Simulation/GSFC_20181002_SMBH_m13043_Simulation~medium.mp4"
     ],
-    "subtitle": "By Blender Foundation",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-    "title": "Elephant Dream"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/GSFC_20181002_SMBH_m13043_Simulation/GSFC_20181002_SMBH_m13043_Simulation~thumb.jpg",
+    "title": "Spiraling Supermassive Black Holes Simulation"
   },
   {
-    "description": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes. For $35.\nLearn how to use Chromecast with HBO GO and more at google.com/chromecast.",
+    "description": "On April 24, 2019, the Hubble Space Telescope celebrated its 29th year in orbit by premiering a never-before-seen view of the Southern Crab Nebula. This stunning cosmic hourglass of gas and dust is produced by the interaction between a red giant star and a white dwarf companion.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      "https://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~medium.mp4"
     ],
-    "subtitle": "By Google",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
-    "title": "For Bigger Blazes"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/GSFC_20190424_HST_m13189_Hubble29/GSFC_20190424_HST_m13189_Hubble29~thumb.jpg",
+    "title": "Hubble's 29th Anniversary — Southern Crab Nebula"
   },
   {
-    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when Batman's escapes aren't quite big enough. For $35. Learn how to use Chromecast with Google Play Movies and more at google.com/chromecast.",
+    "description": "For the first time, scientists have ground and satellite views of STEVE (Strong Thermal Emission Velocity Enhancement), a mysterious atmospheric phenomenon that appears as a mauve-colored ribbon of light stretching across the sky. This video explores the science behind this stunning aurora-like display.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      "https://images-assets.nasa.gov/video/GSFC_20180314_Aurora_m12865_Steve/GSFC_20180314_Aurora_m12865_Steve~medium.mp4"
     ],
-    "subtitle": "By Google",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
-    "title": "For Bigger Escape"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/GSFC_20180314_Aurora_m12865_Steve/GSFC_20180314_Aurora_m12865_Steve~thumb.jpg",
+    "title": "The Aurora Named STEVE"
   },
   {
-    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV. For $35.  Find out more at google.com/chromecast.",
+    "description": "NASA's flying telescope SOFIA captured a crisp infrared image of the center of our Milky Way galaxy. Spanning more than 600 light-years, this panorama reveals details within the dense swirls of gas and dust in high resolution, opening a new window into the heart of our galaxy.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+      "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~medium.mp4"
     ],
-    "subtitle": "By Google",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
-    "title": "For Bigger Fun"
+    "subtitle": "By NASA Ames Research Center",
+    "thumb": "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~thumb.jpg",
+    "title": "SOFIA Reveals New View of Milky Way's Center"
   },
   {
-    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for the times that call for bigger joyrides. For $35. Learn how to use Chromecast with YouTube and more at google.com/chromecast.",
+    "description": "The sun emitted a trio of mid-level solar flares on April 2-3, 2017. NASA's Solar Dynamics Observatory, which watches the sun constantly, captured dramatic imagery of these events. Solar flares are powerful bursts of radiation that appear as bright flashes of light on the sun.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      "https://images-assets.nasa.gov/video/GSFC_20170403_Trio_m12563_SolarFlares/GSFC_20170403_Trio_m12563_SolarFlares~medium.mp4"
     ],
-    "subtitle": "By Google",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "title": "For Bigger Joyrides"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/GSFC_20170403_Trio_m12563_SolarFlares/GSFC_20170403_Trio_m12563_SolarFlares~thumb.jpg",
+    "title": "April 2017 Solar Flare Trio"
   },
   {
-    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for when you want to make Buster's big meltdowns even bigger. For $35. Learn how to use Chromecast with Netflix and more at google.com/chromecast.",
+    "description": "NASA revealed the first five full-color images and spectrographic data from the James Webb Space Telescope — the world's most powerful space telescope. These stunning images include the deepest infrared view of the universe ever taken, the Carina Nebula's cosmic cliffs, Stephan's Quintet, the Southern Ring Nebula, and an exoplanet atmosphere spectrum.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "https://images-assets.nasa.gov/video/First%20Images%20from%20the%20James%20Webb%20Space%20Telescope%20(Official%20NASA%20Highlights)/First%20Images%20from%20the%20James%20Webb%20Space%20Telescope%20(Official%20NASA%20Highlights)~medium.mp4"
     ],
-    "subtitle": "By Google",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
-    "title": "For Bigger Meltdowns"
+    "subtitle": "By NASA",
+    "thumb": "https://images-assets.nasa.gov/video/First%20Images%20from%20the%20James%20Webb%20Space%20Telescope%20(Official%20NASA%20Highlights)/First%20Images%20from%20the%20James%20Webb%20Space%20Telescope%20(Official%20NASA%20Highlights)~thumb.jpg",
+    "title": "First Images from the James Webb Space Telescope"
   },
   {
-    "description": "Sintel is an independently produced short film, initiated by the Blender Foundation as a means to further improve and validate the free/open source 3D creation suite Blender. With initial funding provided by 1000s of donations via the internet community, it has again proven to be a viable development model for both open 3D technology as for independent animation film.\nThis 15 minute film has been realized in the studio of the Amsterdam Blender Institute, by an international team of artists and developers. In addition to that, several crucial technical and creative targets have been realized online, by developers and artists and teams all over the world.\nwww.sintel.org",
+    "description": "Building the James Webb Space Telescope is challenging. It is NASA's most ambitious and complex space science observatory. The mission required 10 new technologies to be invented, the dedication of hundreds of scientists and engineers, and decades of work. This video explores why Webb was worth the wait.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+      "https://images-assets.nasa.gov/video/12987-Worth_the_Wait/12987-Worth_the_Wait~medium.mp4"
     ],
-    "subtitle": "By Blender Foundation",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
-    "title": "Sintel"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/12987-Worth_the_Wait/12987-Worth_the_Wait~thumb.jpg",
+    "title": "James Webb Space Telescope: Worth the Wait"
   },
   {
-    "description": "Smoking Tire takes the all-new Subaru Outback to the highest point we can find in hopes our customer-appreciation Balloon Launch will get some free T-shirts into the hands of our viewers.",
+    "description": "This narrated 12-minute video shows the James Webb Space Telescope's dramatic launch aboard an Ariane 5 rocket and its intricate deployment process — unfolding its sunshield, mirrors, and instruments as it journeyed to its orbit at the second Lagrange point, 1.5 million kilometers from Earth.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+      "https://images-assets.nasa.gov/video/1511201_JWST_L-D_Apvd_Final/1511201_JWST_L-D_Apvd_Final~medium.mp4"
     ],
-    "subtitle": "By Garage419",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/SubaruOutbackOnStreetAndDirt.jpg",
-    "title": "Subaru Outback On Street And Dirt"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/1511201_JWST_L-D_Apvd_Final/1511201_JWST_L-D_Apvd_Final~thumb.jpg",
+    "title": "Webb Telescope Launch and Deployment"
   },
   {
-    "description": "Tears of Steel was realized with crowd-funding by users of the open source 3D creation tool Blender. Target was to improve and test a complete open and free pipeline for visual effects in film - and to make a compelling sci-fi film in Amsterdam, the Netherlands.  The film itself, and all raw material used for making it, have been released under the Creatieve Commons 3.0 Attribution license. Visit the tearsofsteel.org website to find out more about this, or to purchase the 4-DVD box with a lot of extras.  (CC) Blender Foundation - https://www.tearsofsteel.org",
+    "description": "NASA scientists explain the first full-color images and data from the James Webb Space Telescope in detail. From the deepest infrared image of the universe to the atmospheric composition of a distant exoplanet, experts walk through each groundbreaking observation and what it means for our understanding of the cosmos.",
     "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~medium.mp4"
     ],
-    "subtitle": "By Blender Foundation",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
-    "title": "Tears of Steel"
-  },
-  {
-    "description": "The Smoking Tire heads out to Adams Motorsports Park in Riverside, CA to test the most requested car of 2010, the Volkswagen GTI. Will it beat the Mazdaspeed3's standard-setting lap time? Watch and see...",
-    "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
-    ],
-    "subtitle": "By Garage419",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/VolkswagenGTIReview.jpg",
-    "title": "Volkswagen GTI Review"
-  },
-  {
-    "description": "The Smoking Tire is going on the 2010 Bullrun Live Rally in a 2011 Shelby GT500, and posting a video from the road every single day! The only place to watch them is by subscribing to The Smoking Tire or watching at BlackMagicShine.com",
-    "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
-    ],
-    "subtitle": "By Garage419",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WeAreGoingOnBullrun.jpg",
-    "title": "We Are Going On Bullrun"
-  },
-  {
-    "description": "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.",
-    "sources": [
-      "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
-    ],
-    "subtitle": "By Garage419",
-    "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/WhatCarCanYouGetForAGrand.jpg",
-    "title": "What care can you get for a grand?"
+    "subtitle": "By NASA Goddard Space Flight Center",
+    "thumb": "https://images-assets.nasa.gov/video/GSFC_NSL_Webb_Images_Ep44/GSFC_NSL_Webb_Images_Ep44~thumb.jpg",
+    "title": "Webb's First Full-Color Images Explained"
   }
 ]
